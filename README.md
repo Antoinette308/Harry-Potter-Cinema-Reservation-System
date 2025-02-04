@@ -34,7 +34,7 @@ npm install express mysql2 dotenv body-parser
 - body-parser: for parsing incoming requests
 
 3. Set up the .env file
-- Create a .env file at the root of the project and add your MySQL credentials
+- Add your MySQL credentials to the .env file at the root of the project
 
 ```
     DB_HOST=localhost
